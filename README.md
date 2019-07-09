@@ -31,3 +31,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+{@slideshare: http://www.slideshare.net/asanzdiego/markdown-slides-en}
